@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Pengguna - Success</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>5ae6c670-715c-486d-bf32-7ad93fb04d81</testCaseGuid>
-</TestCaseEntity>
