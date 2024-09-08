@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>11d3a162-0052-40b3-8160-35d975ac8a28</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>71608ef9-abcd-4c4e-bd48-63e77e610fe6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>71608ef9-abcd-4c4e-bd48-63e77e610fe6</id>
+      <masked>false</masked>
+      <name>fieldEmail</name>
+   </variable>
+</TestCaseEntity>

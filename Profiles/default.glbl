@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://kasirdemo.belajarqa.com'</initValue>
+      <initValue>'https://kasiraja.ajikamaludin.id'</initValue>
       <name>baseUrl</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

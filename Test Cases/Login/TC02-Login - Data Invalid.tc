@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Data user dan password berbeda</description>
+   <name>TC02-Login - Data Invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef8be8c9-8696-4a19-be9c-7492c52ec4c2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7ade360c-b136-42bd-9f17-1f6faaeae1fd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7ade360c-b136-42bd-9f17-1f6faaeae1fd</id>
+      <masked>false</masked>
+      <name>fieldEmail</name>
+   </variable>
+</TestCaseEntity>

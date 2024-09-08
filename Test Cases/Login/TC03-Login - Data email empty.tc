@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Data email empty and password valid</description>
+   <name>TC03-Login - Data email empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b98441f9-ffe9-42b9-a00f-97af77478960</testCaseGuid>
+</TestCaseEntity>

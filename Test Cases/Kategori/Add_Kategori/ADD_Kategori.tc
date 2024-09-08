@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADD_Kategori</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3a48f7b1-2262-4e08-86a7-192f744cdcf4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>79bfc812-8f4c-41b8-9d8e-ba41f87098a2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9b678ea8-e704-449c-9a6e-184a4e1c7e48</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Baju'</defaultValue>
+      <description></description>
+      <id>79bfc812-8f4c-41b8-9d8e-ba41f87098a2</id>
+      <masked>false</masked>
+      <name>itemNamaKat</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test'</defaultValue>
+      <description></description>
+      <id>9b678ea8-e704-449c-9a6e-184a4e1c7e48</id>
+      <masked>false</masked>
+      <name>itemDeskKat</name>
+   </variable>
+</TestCaseEntity>

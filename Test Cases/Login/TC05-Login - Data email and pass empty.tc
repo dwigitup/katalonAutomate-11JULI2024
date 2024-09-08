@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Data user dan password empty</description>
+   <name>TC05-Login - Data email and pass empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ac6c0a81-424d-4659-8441-12f7484bcecf</testCaseGuid>
+</TestCaseEntity>

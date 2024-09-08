@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Data user dan password berbeda</description>
+   <name>TC02_02-Login - Data Format Email InValid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a929c86d-8a5d-4edd-a9cf-1fcb53fc3c6e</testCaseGuid>
+</TestCaseEntity>
